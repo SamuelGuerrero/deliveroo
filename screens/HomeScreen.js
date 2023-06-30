@@ -8,7 +8,6 @@ import {
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import { useLayoutEffect } from "react";
-
 import {
   UserIcon,
   ChevronDownIcon,
